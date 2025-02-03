@@ -23,7 +23,7 @@ global.owner = [
 ["593968263524"],
 ["5215539356057"]]
 
-global.mods = []
+global.mods = [584247224176]
 global.prems = []
 
 //cambia a false Desactivar en "auto-reconexion" de sub-bots
